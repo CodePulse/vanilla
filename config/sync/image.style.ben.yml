@@ -1,0 +1,12 @@
+uuid: 612dba89-55c8-40ad-a054-b9655f327c74
+langcode: en
+status: true
+dependencies: {  }
+name: ben
+label: Ben
+effects:
+  a11c1a90-0706-4520-8621-2531508a267d:
+    uuid: a11c1a90-0706-4520-8621-2531508a267d
+    id: image_desaturate
+    weight: 1
+    data: {  }

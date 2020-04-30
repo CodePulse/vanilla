@@ -1,0 +1,14 @@
+uuid: d127fd73-a056-4d46-a3ca-7711a0d37c79
+name: Vanilla
+mail: ben@codepulse.co.uk
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
